@@ -5,3 +5,98 @@
   font-weight: <weight>;
   font-style: normal;
 } */
+ .title {
+  width: 1336px;
+  margin: 0 auto;
+  padding-top: 80px;
+  text-align: center;
+ }
+ .text-1 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 26px;
+  text-transform: uppercase;
+  color: #282828;
+  padding-bottom: 4px;
+ }
+ .text-2 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 54px;
+  line-height: 62px;
+  letter-spacing: -1px;
+  padding-bottom: 16px;
+ }
+ .text-3 {
+  width: 760px;
+  border: 0px;
+  padding: 0px 22px;
+  margin: 0 auto;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 35px;
+  color: #5F6980;
+ } 
+ .cards {
+  margin: 0 auto;
+  margin-top: 48px;
+  width: 1336px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+ }
+ .card {
+  border: 1xp solid #EAECF0;
+  border-style: dotted;
+  width: 310px;
+  height: 430;
+  margin-bottom: 48px;
+ }
+ .card-marg {
+  margin-right: 32px;
+ }
+ .person-name {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #282828;
+  padding: 16px 16px 4px 16px;
+ }
+ .position {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  text-transform: capitalize;
+  line-height: 22px;
+  color: #3E3E59;
+  padding: 0px 16px 8px 16px;
+ }
+ .more-info {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 22px;
+  color: #5F6980;
+  padding: 0px 16px 24px 16px;
+ }
+ .soc-1 {
+  padding: 0px 16px 16px 16px;;
+ }
+ .soc-icons {
+  margin-right: 16px;
+ }
