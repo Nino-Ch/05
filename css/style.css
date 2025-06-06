@@ -52,6 +52,7 @@
   display: flex;
   flex-wrap: wrap;
   align-content: center;
+  justify-content: space-between;
  }
  .card {
   width: 310px;
@@ -59,9 +60,9 @@
   margin-bottom: 48px;
   border: 1px solid #EAECF0;
  }
- .card-marg {
+ /* .card-marg {
   margin-right: 32px;
- }
+ } */
  .person-name {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
